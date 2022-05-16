@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    text-align: center;
+    background: red;
+}
+.container {
+    border: 2px solid red;
+    margin: 3px 0;
+    background:black;
+    padding:9px;
+}
+.bg-Primary{
+    background:green;
+}
+.ARK{
+    background-image: radial-gradient(yellow,red,green);
+    text-align: center;
+}
